@@ -1,13 +1,13 @@
 # main text of home
 title: Luca Besso
-bio: Se non sono al pc sto saltando
+bio: Se non sono al pc è perchè mi sto allenando.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Un blog su allenamento e tecnologia.
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/profile.jpg
 
 # your site color theme, true for dark theme, 
@@ -18,9 +18,9 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/1t8aqEhTEy_8ggENJdW9q06V8h7UfVJwL/view?usp=sharing
 
-url: https://sergiokopplin.github.io/indigo
+url: https://Liiuc.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,26 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
-
-authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
-    external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+#facebook: myfacebook
+#twitter: mytwitter
+#instagram: myinstagram
+linkedin: https://www.linkedin.com/in/luca-besso-650b1a194/  
+github: https://github.com/Liiuc
+email: luca.besso27@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
