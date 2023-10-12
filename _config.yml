@@ -7,7 +7,7 @@ description: Un blog su allenamento e tecnologia.
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: false
 picture: assets/images/profile.jpg
 
 # your site color theme, true for dark theme, 
@@ -59,7 +59,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+#blog: true         #se voglio riabilitare il blog scommento questo
 
 # do you want to show the "read time" of the posts?
 read-time: true
