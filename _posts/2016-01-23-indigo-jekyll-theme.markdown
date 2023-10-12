@@ -1,5 +1,5 @@
 ---
-title: "🧰 La cassetta degli attrezzi :toolbox:"
+title: "🧰 La cassetta degli attrezzi 🧰"
 layout: post
 date: 2016-01-23 22:10
 tag: Project
@@ -16,7 +16,7 @@ externalLink: false
 
 Nella mia però non sono presenti dei normali attrezzi... per me gli attrezzi sono piccole parti di codice che possono aiutarti a svolgere alcune attività in modo più semplice e veloce. 
 
-Per esempio : [Trova e sostituisci su Excel](https://github.com/Liiuc/ToolBox/blob/main/Macro/macro%20trova%20e%20sostituisci%20EXCEL.txt) 
+Per esempio: [Trova e sostituisci su Excel](https://github.com/Liiuc/ToolBox/blob/main/Macro/macro%20trova%20e%20sostituisci%20EXCEL.txt) 
 
 Questa è una Macro per excel, che serve per trovare tutte le volte che una parola è presente nel file excel e sostituirla con una parola diversa. 
 E' molto utile nel caso si voglia sostuitre qualche parola che è stata ripetuta più volte nel file, magari in file molto grandi e dove sono presenti molte parti di testo divere. 
@@ -30,6 +30,8 @@ Cosa contiene?
 - Script python
 - Algoritmi php
 - Javascript
+
+
 ---
 
 [Dacci un'occhiata](https://github.com/Liiuc/ToolBox) Qui.
